@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Give Me Star](https://img.shields.io/badge/github-kkh725-red)](https://github.com/kkh725)
+[![Give Me Star](https://img.shields.io/badge/github-kkh725-red)](https://github.com/kkh725) [![Give Me Star](https://img.shields.io/badge/github-kkh725-red)](https://github.com/kkh725)
+
+<img width="1234" alt="스크린샷 2024-02-06 오후 8 13 11" src="https://github.com/kkh725/kkh725/assets/120651330/6046ff39-5ac3-4a7b-9a64-e803664d221b">
 
 
 <!--
