@@ -2,8 +2,9 @@
 
 [![Give Me Star](https://img.shields.io/badge/github-white)](https://github.com/kkh725) ![Give Me Star](https://img.shields.io/badge/kkhyungyung0@naver.com-red) ![Give Me Star](https://img.shields.io/badge/kkhyungyung0@gmail.com-red)
 [![Give Me Star](https://img.shields.io/badge/blog-white)](https://blog.naver.com/kkhyungyung0)
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=/e/&logoColor=white">
-
+<a href="https://naver.com">
+    <img src="https://img.shields.io/badge/Naver_Email-000000?style=for-the-badge&logo=/e/&logoColor=white" alt="Email 로고">
+</a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 
