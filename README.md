@@ -22,9 +22,20 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkh725&show_icons=true&theme=radical)
 
-<!-- <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon Ec2&logoColor=white"> <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white">> 아마존 서버,디비
+# 👻 Dev log
+<a href="https://blog.naver.com/kkhyungyung0">
+     <img src="https://img.shields.io/badge/blog-34A853?style=social&logo=Velog&logoColor=white" alt="김근형의 네이버 블로그"> <!-- 네이버블로그 -->
+</a> <br> <br>
+<a href="https://blog.naver.com/kkhyungyung0/223349493426">
+    <img src="https://github.com/kkh725/kkh725/assets/120651330/6227eb39-b2e4-4ecb-8820-702d51de86e9" alt="이미지 대체 텍스트" width="500">
+</a>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"> 
 
 
+<!-- <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon Ec2&![Uploading 블로그.png…]()
+logoColor=white"> <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white">> 아마존 서버,디비
+
+<img width="500" alt="image" src="https://github.com/kkh725/kkh725/assets/120651330/3735788f-a559-4bf8-bb90-4ac523b88a26"> ->이거는 사진. 블로그사진
 
 
 <!--
