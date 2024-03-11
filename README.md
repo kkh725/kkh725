@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Give Me Star](https://img.shields.io/badge/github-GIVEME--STAR-red)](https://github.com/kkh725)
+[![Give Me Star](https://img.shields.io/badge/github-kkh725-red)](https://github.com/kkh725)
 
 
 <!--
