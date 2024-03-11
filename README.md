@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Give Me Star](https://img.shields.io/badge/github-black)](https://github.com/kkh725) ![Give Me Star](https://img.shields.io/badge/kkhyungyung0@naver.com-red) ![Give Me Star](https://img.shields.io/badge/kkhyungyung0@gmail.com-red)
+[![Give Me Star](https://img.shields.io/badge/github-white)](https://github.com/kkh725) ![Give Me Star](https://img.shields.io/badge/kkhyungyung0@naver.com-red) ![Give Me Star](https://img.shields.io/badge/kkhyungyung0@gmail.com-red)
 
 
 
