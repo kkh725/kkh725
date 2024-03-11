@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/github-GIVEME--STAR-red
+[![Give Me Star](https://img.shields.io/badge/github-GIVEME--STAR-red)](https://github.com/user/repo)
 
 
 <!--
