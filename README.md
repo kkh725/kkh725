@@ -29,7 +29,11 @@
 <a href="https://blog.naver.com/kkhyungyung0/223349493426">
     <img src="https://github.com/kkh725/kkh725/assets/120651330/6227eb39-b2e4-4ecb-8820-702d51de86e9" alt="이미지 대체 텍스트" width="500">
 </a>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"> 
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/MVVM-green?style=flat-square&logo=mail.com&logoColor=white"> 
+![Badge](https://img.shields.io/badge/MVVM-green)
+![sdf](https://img.shields.io/badge/mvvm-green)
+
+
 
 
 <!-- <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon Ec2&![Uploading 블로그.png…]()
