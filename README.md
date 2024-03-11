@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Give Me Star](https://img.shields.io/badge/github-kkh725-red)](https://github.com/kkh725) [![Give Me Star](https://img.shields.io/badge/![email](https://github.com/kkh725/kkh725/assets/120651330/e5a83d4a-f324-408e-9d85-90165036cfd3)<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>/e/</title><path d="M.004 12.004A12.012 12.012 0 0 0 12 24a2.27 2.27 0 0 0 2.266-2.266A2.27 2.27 0 0 0 12 19.467c-4.116 0-7.463-3.347-7.463-7.463S7.884 4.541 12 4.541c3.323 0 6.15 2.186 7.111 5.197H12a2.27 2.27 0 0 0-2.266 2.266A2.27 2.27 0 0 0 12 14.27h9.73a2.27 2.27 0 0 0 2.266-2.266A12.02 12.02 0 0 0 12 0C5.385.008.004 5.39.004 12.004"/></svg>kkhyungyung0@naver.com-red)] [![Give Me Star](https://img.shields.io/badge/kkhyungyung0@gmail.com-red)]
+[![Give Me Star](https://img.shields.io/badge/github-kkh725-red)](https://github.com/kkh725) [![Give Me Star](https://img.shields.io/badge/kkhyungyung0@naver.com-red)] [![Give Me Star](https://img.shields.io/badge/kkhyungyung0@gmail.com-red)]
 
 
 ![email](https://github.com/kkh725/kkh725/assets/120651330/e5a83d4a-f324-408e-9d85-90165036cfd3)<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>/e/</title><path d="M.004 12.004A12.012 12.012 0 0 0 12 24a2.27 2.27 0 0 0 2.266-2.266A2.27 2.27 0 0 0 12 19.467c-4.116 0-7.463-3.347-7.463-7.463S7.884 4.541 12 4.541c3.323 0 6.15 2.186 7.111 5.197H12a2.27 2.27 0 0 0-2.266 2.266A2.27 2.27 0 0 0 12 14.27h9.73a2.27 2.27 0 0 0 2.266-2.266A12.02 12.02 0 0 0 12 0C5.385.008.004 5.39.004 12.004"/></svg>
