@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Give Me Star](https://img.shields.io/badge/github-white)](https://github.com/kkh725) ![Give Me Star](https://img.shields.io/badge/kkhyungyung0@naver.com-red) ![Give Me Star](https://img.shields.io/badge/kkhyungyung0@gmail.com-red)
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 
 
