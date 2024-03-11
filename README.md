@@ -10,7 +10,7 @@
 
 
 👋 Hi there,I am an Android mobile app developer. <br>
-👋 I develop using native, also I'm studying cross platform like flutter<br>
+👋 I develop using native, also I'm interested in cross platform like flutter<br>
 🤷🏻‍♂️ I always wonder why.
 
 # Skills
