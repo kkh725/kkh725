@@ -8,14 +8,13 @@
 <a href="https://ivy-grain-ab6.notion.site/8303d91c9f674a98b8811e6dc4a32d7e?pvs=4">
      <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white" alt="김근형의 노션"> <!-- 노션  -->
 </a>
-<br><br>
-
 <a href="mailto:kkhyungyung0@naver.com">
-     <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white" alt="김근형의 노션"> <!-- 노션  -->
+     <img src="https://img.shields.io/badge/@Mail-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="김근형의 노션"> <!-- 노션  -->
 </a>
-<img src="https://img.shields.io/badge/kkhyungyung0@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"> <!--naver mail-->
-<img src="https://img.shields.io/badge/kkhyungyung0@gmail.com-2E3330?style=flat-square&logo=Google&logoColor=white"> <!--google mail-->
-
+<a href="mailto:kkhyungyung0@gmail.com">
+     <img src="https://img.shields.io/badge/@Mail-181717?style=flat-square&logo=Google&logoColor=white" alt="김근형의 노션"> <!-- 노션  -->
+</a>
+<br><br>
 
 
 👋 Hi there,I am an Android mobile app developer. <br>
