@@ -1,12 +1,21 @@
 
 # _About me_
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> <!-- 깃허브 -->
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"> <!-- 깃허브 -->
 <a href="https://blog.naver.com/kkhyungyung0">
      <img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="김근형의 네이버 블로그"> <!-- 네이버블로그 -->
 </a>
+<a href="https://ivy-grain-ab6.notion.site/8303d91c9f674a98b8811e6dc4a32d7e?pvs=4">
+     <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white" alt="김근형의 노션"> <!-- 노션  -->
+</a>
+<br><br>
+
+<a href="mailto:kkhyungyung0@naver.com">
+     <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white" alt="김근형의 노션"> <!-- 노션  -->
+</a>
 <img src="https://img.shields.io/badge/kkhyungyung0@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"> <!--naver mail-->
 <img src="https://img.shields.io/badge/kkhyungyung0@gmail.com-2E3330?style=flat-square&logo=Google&logoColor=white"> <!--google mail-->
+
 
 
 👋 Hi there,I am an Android mobile app developer. <br>
