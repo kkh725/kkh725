@@ -30,6 +30,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkh725&show_icons=true&theme=radical)
 
+# 현재 진행중인 프로젝트
+
+https://github.com/team-echoist/android
+
 # 👻 Dev log
 Blog  
 <a href="https://blog.naver.com/kkhyungyung0">
