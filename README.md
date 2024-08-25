@@ -28,7 +28,7 @@
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"> ![Give Me Star](https://img.shields.io/badge/Java-red)  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=Mysql&logoColor=white"> <img src="https://img.shields.io/badge/RoomDB-003B57?style=flat-square&logo=SQLite&logoColor=white">  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkh725&show_icons=true&theme=radical)
+<!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkh725&show_icons=true&theme=radical) 내 커밋.피알로 점수 -->
 
 # 현재 진행중인 프로젝트
 
