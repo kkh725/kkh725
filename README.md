@@ -32,7 +32,7 @@
 
 # 현재 진행중인 프로젝트
 
-https://github.com/team-echoist/android
+[https://github.com/team-echoist/android](https://github.com/kkh725/Limber)
 
 # 👻 Dev log
 Blog  
