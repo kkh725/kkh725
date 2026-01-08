@@ -1,57 +1,96 @@
+<div align="center">
 
-# _About me_
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=KIM%20GEUN%20HYEONG&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Android%20Developer&descAlignY=51&descAlign=62)
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"> <!-- 깃허브 -->
-<a href="https://blog.naver.com/kkhyungyung0">
-     <img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="김근형의 네이버 블로그"> <!-- 네이버블로그 -->
-</a>
-<a href="https://ivy-grain-ab6.notion.site/8303d91c9f674a98b8811e6dc4a32d7e?pvs=4">
-     <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white" alt="김근형의 노션"> <!-- 노션  -->
-</a>
-<a href="mailto:kkhyungyung0@naver.com">
-     <img src="https://img.shields.io/badge/@Mail-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="김근형의 노션"> <!-- 노션  -->
-</a>
-<a href="mailto:kkhyungyung0@gmail.com">
-     <img src="https://img.shields.io/badge/@Mail-181717?style=flat-square&logo=Google&logoColor=white" alt="김근형의 노션"> <!-- 노션  -->
-</a>
-<br><br>
+<br>
 
+### 👋 안녕하세요, 안드로이드 개발자 김근형입니다
 
-👋 Hi there,I am an Android mobile app developer. <br>
-👋 I develop using native, also I'm interested in cross platform like flutter<br>
-🤷🏻‍♂️ I always wonder why.
+<br>
 
-# Skills
-### Platforms & Languages
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkh725&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Native-34A853?style=flat-square&logo=Naver&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <br>
+</div>
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"> ![Give Me Star](https://img.shields.io/badge/Java-red)  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=Mysql&logoColor=white"> <img src="https://img.shields.io/badge/RoomDB-003B57?style=flat-square&logo=SQLite&logoColor=white">  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> 
+<br>
 
-<!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkh725&show_icons=true&theme=radical) 내 커밋.피알로 점수 -->
+## 🙋‍♂️ About Me
+```kotlin
+val developer = Developer(
+    name = "김근형",
+    role = "Android Developer",
+    language = listOf("Kotlin", "Java"),
+    interests = listOf("Native Android", "Flutter", "Clean Architecture", "MVI Pattern"),
+    motto = "항상 '왜?'라고 묻고, 더 나은 방법을 찾습니다"
+)
+```
 
-# 현재 진행중인 프로젝트
+<br>
 
-[Piece](https://github.com/Piece-Puzzly/Piece-Android)<br><br>
-[인천공항 지도제작 SDK](https://ivy-grain-ab6.notion.site/SDK-1da6a69116b1806bb92ae36bceb4f65f)
+## 📞 Contact
 
-<!-- <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon Ec2&![Uploading 블로그.png…]()
-logoColor=white"> <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white">> 아마존 서버,디비
+<div align="center">
 
-<img width="500" alt="image" src="https://github.com/kkh725/kkh725/assets/120651330/3735788f-a559-4bf8-bb90-4ac523b88a26"> ->이거는 사진. 블로그사진
+[![Blog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/kkhyungyung0)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://ivy-grain-ab6.notion.site/8303d91c9f674a98b8811e6dc4a32d7e?pvs=4)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kkhyungyung0@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:kkhyungyung0@naver.com)
 
+</div>
 
-<!--
-**kkh725/kkh725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+### 💻 Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
+
+### 📱 Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+
+### 🗄 Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Room](https://img.shields.io/badge/Room-003B57?style=flat-square&logo=SQLite&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
+
+</div>
+
+<br>
+
+## 🚀 Current Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Piece-Puzzly/Piece-Android">
+        <b>📱 Piece</b>
+      </a>
+      <br>
+      <sub>메인 프로젝트 진행 중</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://ivy-grain-ab6.notion.site/SDK-1da6a69116b1806bb92ae36bceb4f65f">
+        <b>🗺️ 인천공항 지도 SDK</b>
+      </a>
+      <br>
+      <sub>실내 지도 네비게이션 SDK 개발</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=kkh725&theme=react-dark&bg_color=1a1b27&hide_border=true&line=bf91f3&point=70a5fd&area_color=70a5fd&area=true" width="49%" />
+
+</div>
