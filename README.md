@@ -7,12 +7,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=kkh725&show_icons=true&theme=dark&count_private=true&hide_border=true" height="180" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkh725&layout=compact&theme=dark&hide_border=true" height="180" />
-
-<br>
-
 ## 📈 Contribution Graph
 
 [![김근형's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kkh725&theme=github-compact)](https://github.com/kkh725)
