@@ -8,5 +8,5 @@
 ### open-source
 - Contributor - [ktor](https://github.com/ktorio/ktor/pull/5430)
 ### Tech
-- [Tech-Velog](https://github.com/ktorio/ktor/pull/5430](https://velog.io/@kkhyungyung0/posts))
+- [Tech-Velog](https://velog.io/@kkhyungyung0/posts)
 <br>
